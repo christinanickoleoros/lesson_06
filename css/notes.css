@@ -1,0 +1,17 @@
+
+body{
+    background-color: rgba(52,48,69);
+    color:white;
+    line-height:auto;
+    width:1440px;
+    height:756px;
+    /* display: flex;
+    justify-content: flex-start;
+    align-items: flex-start; */
+}
+
+.vector{
+    max-width: 100%;
+    max-height:auto;
+    display:center;
+}
